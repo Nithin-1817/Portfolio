@@ -47,3 +47,7 @@ body {
 .content {
   padding: 50px;
 }
+i {
+  margin-right: 8px;
+  color: #2563eb;
+}
